@@ -69,12 +69,15 @@ li{
 display: flex;
 height: auto;
 width: 400px;
-background-color: red;
+background-color: #1F2937;
 flex-direction: column;
 }
 .button{
 font-weight: bold;
+padding: 8px 16px;
 border-radius: 8px;
-padding-left: 12px;
-color:#E5E7EB;
+background-color:#3882F6;
+color: #f1f1f1;
+width:120px;
+border: 0px;
 }
